@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2018:18:56:30 -0500] "GET /validate/form.html HTTP/1.1" 404 987 http-bio-8080-exec-1 24
+0:0:0:0:0:0:0:1 - - [26/Sep/2018:18:56:31 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [26/Sep/2018:18:56:35 -0500] "GET /form.html HTTP/1.1" 404 969 http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [26/Sep/2018:18:56:42 -0500] "GET /validate HTTP/1.1" 202 856 http-bio-8080-exec-7 187
